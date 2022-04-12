@@ -14,6 +14,6 @@ Aspirational
 
 List of Tasks 
 - collect images that represent the brand 
-- decided on color scheme 
+- decide on color scheme 
 
 
